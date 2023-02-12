@@ -1,0 +1,27 @@
+[
+    {
+        "country_code": "101",
+        "country_id": "IT",
+        "country_name": "ITALY"
+    },
+    {
+        "country_code": "102",
+        "country_id": "BE",
+        "country_name": "BELGIUM"
+    },
+    {
+        "country_code": "103",
+        "country_id": "NL",
+        "country_name": "NETHERLANDS"
+    },
+    {
+        "country_code": "105",
+        "country_id": "FR",
+        "country_name": "FRANCE"
+    },
+    {
+        "country_code": "106",
+        "country_id": "UK",
+        "country_name": "UNITED KINGDOM"
+    }
+]

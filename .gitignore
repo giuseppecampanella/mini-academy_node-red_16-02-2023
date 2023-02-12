@@ -1,0 +1,4 @@
+# node-red
+.config*
+lib
+*backup

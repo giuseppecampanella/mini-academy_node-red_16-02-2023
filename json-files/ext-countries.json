@@ -1,0 +1,22 @@
+[
+    {
+        "country_id": "IT",
+        "country_name": "ITALY"
+    },
+    {
+        "country_id": "BE",
+        "country_name": "BELGIUM"
+    },
+    {
+        "country_id": "NL",
+        "country_name": "NETHERLANDS"
+    },
+    {
+        "country_id": "FR",
+        "country_name": "FRANCE"
+    },
+    {
+        "country_id": "UK",
+        "country_name": "UNITED KINGDOM"
+    }
+]
