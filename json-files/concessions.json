@@ -1,21 +1,17 @@
 [
     {
-        "country_id": "IT",
         "concession_id": "00001",
         "concession_name": "CONCESSION 1"
     },
     {
-        "country_id": "FR",
         "concession_id": "00002",
         "concession_name": "CONCESSION 2"
     },
     {
-        "country_id": "NL",
         "concession_id": "00003",
         "concession_name": "CONCESSION 3"
     },
     {
-        "country_id": "IT",
         "concession_id": "00004",
         "concession_name": "CONCESSION 4"
     }
